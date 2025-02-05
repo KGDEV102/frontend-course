@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.text{
+   background-color: aqua;
+   background-clip: border-box;
+   padding: 50px;
+   border: 20px solid black;
+   background-image: url(image/e578017a-1e02-4c73-ba69-956a5e36af39_image.png);
+   
+}

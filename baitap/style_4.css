@@ -1,0 +1,36 @@
+.color-red{
+    color: red;
+}
+#color-green{
+    color:green;
+}
+.box{
+    width: 200px;
+    height: 100px;
+    background-color: green;
+}
+.image{
+    background-image: url(../image/th.jpg);
+    width: 100%;
+    height: 200px;
+   
+    background-attachment: fixed;
+}
+.box1{
+    padding: 40px;
+    border: 5px solid black;
+    width: 100%;
+    height:auto;
+    background-color:green ;
+    text-align: center;
+    background-clip: border-box;
+}
+.box2{
+    margin-top: 10px;
+    padding: 35px;
+    border: 10px dashed #CCCDCB;
+    background-color: red;
+    background-clip: padding-box;
+    text-align: right;
+
+}

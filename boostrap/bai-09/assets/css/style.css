@@ -1,0 +1,33 @@
+.section-one{
+    padding:60px 0;
+}
+.section-one .inner-box i {
+    color:#5CB774;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.section-one .inner-box .inner-tittle{
+    font-size: 20px;
+}
+
+.section-one .inner-box .inner-desc{
+    font-size: 14px;
+}
+
+.section-one .inner-box{
+    margin: 15px 0;
+}
+
+.section-two .inner-image img{
+    width: 100%;
+    height: auto;
+}
+
+@media (max-width:991.98px){
+   .section-two .inner-left{
+    order:1;
+    margin-top: 30px;
+   }
+
+}
